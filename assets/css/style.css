@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* This is main image also know as a 'hero' image */
 .hero {
     height: 800px;
     width: 100%;
