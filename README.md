@@ -10,12 +10,12 @@ N/A
 
 ## Usage
 
-Explore repository for refactoring codebase from a website that does not quite meet accessibility standards to one that will.
+Explore repository for refactoring codebase from a website that does not quite meet accessibility standards to one that will. While not changing the original layout and design too much.
 
-While not changing the original layout and design too much.
+![Original layout](assets/images/01-html-css-git-challenge-demo.png)
 
-![original layout](assets/images/01-html-css-git-challenge-demo.png)
-
+View deployed application: 
+[Horiseon-Challenge1](https://warrentyler.github.io/Horiseon-Challenge1/)
 ## Credits
 
 N/A
